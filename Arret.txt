@@ -1,7 +1,7 @@
 
 
 
-Arret à 30 minute dans la config de la base de donnée H2.
+Arret ï¿½ 43 minute dans la config de la base de donnï¿½e H2.
 
 
 
